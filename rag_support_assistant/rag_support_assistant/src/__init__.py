@@ -1,1 +1,0 @@
-# RAG Customer Support Assistant
