@@ -1,7 +1,0 @@
-.env
-chroma_db/
-logs/
-__pycache__/
-*.pyc
-.DS_Store
-.streamlit/secrets.toml
